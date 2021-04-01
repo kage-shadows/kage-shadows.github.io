@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kage - Shadows</title>
+    <title>Kage&#39;s Blog</title>
     <link>https://kage-shadows.github.io/en/</link>
-    <description>Recent content on Kage - Shadows</description>
+    <description>Recent content on Kage&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2021 Kage.</copyright>
+    <copyright>Copyright © 2021 Kage.</copyright>
     <lastBuildDate>Sun, 10 Jan 2021 02:39:27 +0800</lastBuildDate><atom:link href="https://kage-shadows.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copyright Notice</title>
+      <link>https://kage-shadows.github.io/en/copyright/</link>
+      <pubDate>Thu, 01 Apr 2021 19:50:38 +0800</pubDate>
+      
+      <guid>https://kage-shadows.github.io/en/copyright/</guid>
+      <description>If there&amp;rsquo;s NOT a special notice in the description, all the ORIGINAL works are all rights reserved. The copyright and its related rights belong to their creators. You may not re-post these works without a permission. This restriction also applies to this Notice.
+For works that used CC License, you must follow the license terms.
+For example, here&amp;rsquo;s the summary of CC-BY-SA 4.0 International License:
+ “
+You are free to:</description>
+    </item>
+    
     <item>
       <title>Links</title>
       <link>https://kage-shadows.github.io/en/links/</link>
@@ -32,7 +45,14 @@
       <pubDate>Thu, 28 Jan 2021 02:15:13 +0800</pubDate>
       
       <guid>https://kage-shadows.github.io/en/contact-us/</guid>
-      <description>Contact Us</description>
+      <description>My E-Mail: kage.public@outlook.com
+E-Mail of HAM Radio (Amateur Radio) and HAM&amp;rsquo;s paradise: kage.radio@outlook.com
+My callsign: Nothing now.
+My QQ: 2916570051 (Tag the reason that you contact me)
+My BiliBili channel: 暗影KAGE
+My Douyin account: KAGE_SHADOWS
+My Kuaishou account: KAGE-SHADOWS
+Mailing address: Nothing now.</description>
     </item>
     
     <item>

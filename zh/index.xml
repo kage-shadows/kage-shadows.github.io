@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>影子小站</title>
+    <link>https://kage-shadows.github.io/zh/</link>
+    <description>Recent content on 影子小站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>Copyright © 2021 Kage.</copyright>
+    <lastBuildDate>Sun, 10 Jan 2021 02:38:06 +0800</lastBuildDate><atom:link href="https://kage-shadows.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>版权声明</title>
+      <link>https://kage-shadows.github.io/zh/copyright/</link>
+      <pubDate>Thu, 01 Apr 2021 19:50:38 +0800</pubDate>
+      
+      <guid>https://kage-shadows.github.io/zh/copyright/</guid>
+      <description>本站所有的 原创 作品如无特殊声明，版权及其相关权利均属创作此作品的创作者所有。未经许可，您不得转载这些内容。也包括本声明。 对于使用 CC 许可协议 的</description>
+    </item>
+    
+    <item>
+      <title>友情链接</title>
+      <link>https://kage-shadows.github.io/zh/links/</link>
+      <pubDate>Mon, 01 Feb 2021 15:11:13 +0800</pubDate>
+      
+      <guid>https://kage-shadows.github.io/zh/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>特别感谢</title>
+      <link>https://kage-shadows.github.io/zh/special-thanks/</link>
+      <pubDate>Mon, 01 Feb 2021 15:11:04 +0800</pubDate>
+      
+      <guid>https://kage-shadows.github.io/zh/special-thanks/</guid>
+      <description>内容使用 博客框架 Hugo by the Hugo Authors. 主题 hugo-PaperMod by adityatelange. based on hugo-paper by nanxiaobei. 图标 &amp;ldquo;bilibili-line&amp;quot;icon by Meiky_Ou on iconfont. &amp;ldquo;CN_csdn.net&amp;quot;icon by Lwanz on iconfont. &amp;ldquo;抖音&amp;quot;icon by qqavh147 on iconfont. &amp;ldquo;快手&amp;qu</description>
+    </item>
+    
+    <item>
+      <title>联系我们</title>
+      <link>https://kage-shadows.github.io/zh/contact-us/</link>
+      <pubDate>Thu, 28 Jan 2021 02:15:13 +0800</pubDate>
+      
+      <guid>https://kage-shadows.github.io/zh/contact-us/</guid>
+      <description>站长信箱：kage.public@outlook.com 业余无线电及HAM专区信箱：kage.radio@outlook.com 站长呼号：（</description>
+    </item>
+    
+    <item>
+      <title>你好，世界！</title>
+      <link>https://kage-shadows.github.io/zh/post/hello-world/</link>
+      <pubDate>Sun, 10 Jan 2021 02:38:06 +0800</pubDate>
+      
+      <guid>https://kage-shadows.github.io/zh/post/hello-world/</guid>
+      <description>你好，这个世界。</description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://kage-shadows.github.io/zh/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kage-shadows.github.io/zh/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
