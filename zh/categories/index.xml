@@ -6,6 +6,16 @@
     <description>Recent content in Categories on 影子小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <copyright>Copyright © 2021 Kage.</copyright><atom:link href="https://kage-shadows.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021 Kage.</copyright>
+    <lastBuildDate>Fri, 02 Apr 2021 13:35:00 +0800</lastBuildDate><atom:link href="https://kage-shadows.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HAM专区</title>
+      <link>https://kage-shadows.github.io/zh/categories/ham%E4%B8%93%E5%8C%BA/</link>
+      <pubDate>Fri, 02 Apr 2021 13:35:00 +0800</pubDate>
+      
+      <guid>https://kage-shadows.github.io/zh/categories/ham%E4%B8%93%E5%8C%BA/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
