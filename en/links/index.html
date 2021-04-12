@@ -10,9 +10,11 @@
 <title>Links | Kage&#39;s Blog</title>
 <meta name="keywords" content="" />
 <meta name="description" content="Links - Kage&#39;s Blog">
-<meta name="author" content="Kage">
+<meta name="author" content="">
 <link rel="canonical" href="https://kage-shadows.github.io/en/links/" />
-<link href="/assets/css/stylesheet.min.d85457619e67d31b97f40ed67c71b5efe0b52508ba759e5a9da0760afd6707db.css" integrity="sha256-2FRXYZ5n0xuX9A7WfHG17&#43;C1JQi6dZ5anaB2Cv1nB9s=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.84cc6e7cd97516a4d4e877c6bebe5a4529afdf61f4d009e2c8bbec3a876fff4e.css" integrity="sha256-hMxufNl1FqTU6HfGvr5aRSmv32H00AniyLvsOodv/04=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js" integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5&#43;kdJvBz5iKbt6B5PJI="
+    onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://kage-shadows.github.io/favicon.png">
 <link rel="icon" type="image/png" sizes="16x16" href="https://kage-shadows.github.io/favicon_16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://kage-shadows.github.io/favicon_32x32.png">
@@ -64,10 +66,6 @@
   "inLanguage": "en",
   "datePublished": "2021-02-01T15:11:13+08:00",
   "dateModified": "2021-02-01T15:11:13+08:00",
-  "author":{
-    "@type": "Person",
-    "name": "Kage"
-  },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://kage-shadows.github.io/en/links/"
@@ -198,7 +196,7 @@
     <h1 class="post-title">
       Links
     </h1>
-    <div class="post-meta">Feb 01, 2021 15:11:13&nbsp;·&nbsp;0 min to read&nbsp;·&nbsp;0 words&nbsp;·&nbsp;Kage&nbsp;|&nbsp;
+    <div class="post-meta">Feb 01, 2021 15:11:13&nbsp;·&nbsp;0 words&nbsp;·&nbsp;0 min to read&nbsp;|&nbsp;
 <ul class="i18n_list">Translations:
     <li>
         <a href="https://kage-shadows.github.io/zh/links/">中文</a>
@@ -218,6 +216,7 @@
   <div class="post-content">
 </div>
   <footer class="post-footer">
+
   </footer>
 </article>
     </main>
@@ -243,8 +242,6 @@
         </svg>
     </button>
 </a>
-<script defer src="/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js" integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5&#43;kdJvBz5iKbt6B5PJI="
-    onload="hljs.initHighlightingOnLoad();"></script>
 
 <script>
     window.onload = function () {
@@ -301,6 +298,43 @@
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = 'copy';
+
+        function copyingDone() {
+            copybutton.innerText = 'copied!';
+            setTimeout(() => {
+                copybutton.innerText = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        container.appendChild(copybutton);
+    });
 </script>
 </body>
 

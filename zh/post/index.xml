@@ -6,24 +6,372 @@
     <description>Recent content in Posts on 影子小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
+    <managingEditor>kage.public@outlook.com (Kage)</managingEditor>
+    <webMaster>kage.public@outlook.com (Kage)</webMaster>
     <copyright>Copyright © 2021 Kage.</copyright>
     <lastBuildDate>Fri, 02 Apr 2021 13:35:00 +0800</lastBuildDate><atom:link href="https://kage-shadows.github.io/zh/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>我通过了天津的A类操作证考试</title>
-      <link>https://kage-shadows.github.io/zh/post/got-my-crac-license/</link>
+      <title>【多图预警】我取得了CRAC的A类《业余电台操作证书》</title>
+      <link>https://kage-shadows.github.io/zh/post/got-my-crac-a-license/</link>
+      <description>&amp;lt;blockquote&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;“&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;业余无线电爱好者守则&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;体谅：他不会故意地减轻别人的快乐。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;忠诚：他对其他业余爱好者，当地的俱乐部，IARU 无线电协会在他的组织，国家相关部门和地方各级无线电管理部门。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;进步：他不断更新他的电台。它建造得很好，效率也很高。他的操作实践是最棒的。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;友好：他应要求缓慢而耐心地工作；为初学者提供友好的建议和意见；善意的协助、合作和考虑他人的利益。他是业余无线电精神的标志。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;适度：无线电是一种爱好，永远不会干扰到家庭、工作、学校或社区应尽的义务。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;爱国：他的电台和技能时刻都准备为国家和社会服务。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;”&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;/blockquote&amp;gt;
+&amp;lt;p&amp;gt;——改编自 1928 年由保罗 · 西格尔（W9EEA）编写的原业余无线电爱好者准则。&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;
+&amp;lt;p&amp;gt;本部分摘自IARU《业余无线电爱好者的道德和操作守则（第3版）》。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;其版权归属其创作者，中文译本的版权则归属其译者（版权所有）。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;作者：John Devoldere（ON4UN）、Mark Demeuleneere（ON4WW）&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;译者：BG1TRP（CW 部分）、BH4IWK（其余部分）&amp;lt;/p&amp;gt;
+&amp;lt;/blockquote&amp;gt;
+&amp;lt;hr&amp;gt;
+&amp;lt;h2 id=&amp;#34;前言&amp;#34;&amp;gt;前言&amp;lt;/h2&amp;gt;
+&amp;lt;!-- raw HTML omitted --&amp;gt;
+&amp;lt;p&amp;gt;2019年底，我从一个页面上的相关推荐上接触了业余无线电，那是一个视频。不过当时我并没有深入了解。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;直到去年，新冠疫情的爆发和南方的水灾让我有了危机感，并意识到了应急通信的重要性。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;我是一位天津人，这也令我回想起了15年的8.12事故。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;就在这时，我的脑子里突然蹦出了那个视频：&amp;lt;a href=&amp;#34;https://www.bilibili.com/video/BV1Q4411P7rW&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;一个仅占全国人口0.01%的群体究竟有多神秘——业余无线电&amp;lt;/a&amp;gt;。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;于是我去正式地了解了业余无线电，并发现了它的更多用途，随后便爱上了它。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;（感谢HamZone（BH9EMQ）、科技小汪（BG6FQO）及成都M哥（BG8BXM）等前辈创作出的优质内容，也感谢他们为我打开了空中世界的大门！欢迎各位前去关注他们！）&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;因为疫情原因，天津当时并没有考试计划，我也就没有去看题库的内容（犯懒）。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;考试这件事也在我的脑海中逐渐被学业和时间冲淡。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;去年11月25号的晚上，我在整理浏览器收藏夹的时候无意翻出了TJARA的官网，然后点了进去。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;随后我发现：考试从8月开始就已经恢复了，并且11月28日就有一场考试。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;——但是报名截止至11月24日。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;哇，就差一天诶！可能是我的运气太差了吧。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;不过当时的我也没有看过题库，想了一下，还是把机会留给其他的爱好者们更好。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;于是我开始疯狂地学习题库，并等待着下一场考试。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;3月6号的时候，我在智谱APP上看到了考试的通知（3月5号发布的），激动到差点说不出话。随后迅速弄好了资料，然后提交了上去（当时我是前25位报名的）。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;27号下午，我去参加了考试。由于充分的学习了题库，我用了八分钟的时间就把答题卡涂完了。因为要等十五分钟才能交卷，剩下的几分钟内，我将答卷核对了一遍又一遍，然后交了上去。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;4月2号晚上，我得到了考试通过的消息，以及我的证书编号。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;今天，我拿到了我的操作证书。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;我并没有设置电台，因为我还未满18周岁。但是我可以对业余频段进行守听，也就是做一位SWL（Short Wave Listener，短波收听者）。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;这里也建议各位已经取得操作证并准备设置电台的爱好者们：不要一拿到电台执照就发起呼叫。可以先进行一段时间的守听，学习一下老前辈们的通联之后再发起呼叫。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;我目前使用的收听设备是一根电视棒（40多块的RTL2832U&#43;R820T，做了Q通道改制并加了散热片和铝箔），通过SDR（Software Defined Radio，软件定义的无线电）软件（我使用的是SDR#）进行收听。&amp;lt;/p&amp;gt;
+&amp;lt;hr&amp;gt;
+&amp;lt;h2 id=&amp;#34;准备&amp;#34;&amp;gt;准备&amp;lt;/h2&amp;gt;
+&amp;lt;!-- raw HTML omitted --&amp;gt;
+&amp;lt;h3 id=&amp;#34;操作证书的概念&amp;#34;&amp;gt;操作证书的概念&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;《业余电台操作证书》（下称操作证书/操作证）就像驾照一样，都是用来证明你的操作技术能力的。有了它，你就可以&amp;lt;strong&amp;gt;合法&amp;lt;/strong&amp;gt;的操作业余无线电台了。&amp;lt;/p&amp;gt;
+&amp;lt;h4 id=&amp;#34;样式&amp;#34;&amp;gt;样式&amp;lt;/h4&amp;gt;
+&amp;lt;!-- raw HTML omitted --&amp;gt;
+&amp;lt;p&amp;gt;操作证书长这样（正面）：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/crac_a_lic.png&amp;#34; alt=&amp;#34;A类操作证书（正面）&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;这里只有A类的，因为B类和C类没能找到合适的、可以使用的图片，所以就没有贴上来。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;各位可以去网上搜索相关的图片，样子和A类差不多，就是颜色和写的内容不一样。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;背面长这样：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/crac_a_lic_back.png&amp;#34; alt=&amp;#34;A类操作证书（背面）&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;（背面除了不同类型的编号开头不一样，剩下的都一模一样）&amp;lt;/p&amp;gt;
+&amp;lt;h4 id=&amp;#34;类别&amp;#34;&amp;gt;类别&amp;lt;/h4&amp;gt;
+&amp;lt;p&amp;gt;就像驾照有准驾车型一样，操作证书也有“准驾车型”。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;操作证书按照操作者不同的&amp;lt;strong&amp;gt;能力&amp;lt;/strong&amp;gt;，共分为&amp;lt;strong&amp;gt;三类&amp;lt;/strong&amp;gt;：A类、B类、C类。其&amp;lt;strong&amp;gt;区别&amp;lt;/strong&amp;gt;在于不同的类别可以使用不同的业余&amp;lt;strong&amp;gt;频段&amp;lt;/strong&amp;gt;及发射&amp;lt;strong&amp;gt;功率&amp;lt;/strong&amp;gt;。也是和驾照一样，你有C1照就能开小车、有B2就能开大货。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;不同类别的操作技术能力所能够使用的频率及功率如下：&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;A类：&amp;lt;strong&amp;gt;30-3000MHz以内&amp;lt;/strong&amp;gt;的业余频段，功率不超过&amp;lt;strong&amp;gt;25W&amp;lt;/strong&amp;gt;；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;B类：各业余频段，&amp;lt;strong&amp;gt;30MHz以下&amp;lt;/strong&amp;gt;功率不超过&amp;lt;strong&amp;gt;100W&amp;lt;/strong&amp;gt;、&amp;lt;strong&amp;gt;30MHz以上&amp;lt;/strong&amp;gt;功率不超过&amp;lt;strong&amp;gt;25W&amp;lt;/strong&amp;gt;；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;C类：各业余频段，&amp;lt;strong&amp;gt;30MHz以下&amp;lt;/strong&amp;gt;功率不超过&amp;lt;strong&amp;gt;1000W&amp;lt;/strong&amp;gt;、&amp;lt;strong&amp;gt;30MHz以上&amp;lt;/strong&amp;gt;功率不超过&amp;lt;strong&amp;gt;25W&amp;lt;/strong&amp;gt;。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;h4 id=&amp;#34;说明&amp;#34;&amp;gt;说明&amp;lt;/h4&amp;gt;
+&amp;lt;p&amp;gt;A类及B类操作证&amp;lt;strong&amp;gt;不需要&amp;lt;/strong&amp;gt;年满18周岁即可考取（C类因为要求&amp;lt;strong&amp;gt;设台两年&amp;lt;/strong&amp;gt;，所以至少要等到&amp;lt;strong&amp;gt;20周岁&amp;lt;/strong&amp;gt;），但是设台需要。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;如果你不满18周岁，可以问一问周围的朋友，在取得操作证书后使用他的电台进行客席发射。或者咨询下学校是否有相关社团，也许你的学校拥有集体电台（如果是短波电台的话，必须先考取B类操作证）。如果当地有少年宫或者青少年科技中心/活动中心的话，也可以咨询一下是否有相关课程。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;A类操作证是入门的&amp;lt;strong&amp;gt;第一步&amp;lt;/strong&amp;gt;。你必须先考取A类操作证，才能够考取B类或者C类操作证。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;而B类操作证需要在&amp;lt;strong&amp;gt;取得A类操作证6个月后&amp;lt;/strong&amp;gt;才能考取。想玩&amp;lt;strong&amp;gt;短波&amp;lt;/strong&amp;gt;的话，&amp;lt;strong&amp;gt;B类&amp;lt;/strong&amp;gt;的操作证是&amp;lt;strong&amp;gt;一大前提&amp;lt;/strong&amp;gt;。&amp;lt;del&amp;gt;第二大是钱（和邻居）&amp;lt;/del&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;C类操作证则是要在取得B类操作证并&amp;lt;strong&amp;gt;设立B类业余电台后两年&amp;lt;/strong&amp;gt;才能考取。因为设台至少要求年满&amp;lt;strong&amp;gt;18周岁&amp;lt;/strong&amp;gt;，所以这至少需要你年满&amp;lt;strong&amp;gt;20周岁&amp;lt;/strong&amp;gt;后才能考取。这是目前&amp;lt;strong&amp;gt;最高等级&amp;lt;/strong&amp;gt;的操作证书，考完它，你在中国内地的考操作证阶段就告一段落了。接下来等着你的就是各种证书、奖状，或者是来自其他国家/地区的操作证书。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;取得操作证书并设立电台后，你就拥有了自己的呼号。这个呼号&amp;lt;strong&amp;gt;具有唯一性&amp;lt;/strong&amp;gt;，并且它就是你在空中的&amp;lt;strong&amp;gt;名字&amp;lt;/strong&amp;gt;。正因如此，如果你把它当作域名、邮箱、用户名、网名等注册基本上都是&amp;lt;strong&amp;gt;不会重复的&amp;lt;/strong&amp;gt;。并且呼号十分的简短好记，还符合大部分的6个字符要求。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;如果要搭建一个业余无线电相关的博客的话，把你自己的呼号当作域名那是再好不过了。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;如果把操作证比作驾照，那么呼号就是车牌号码，电台执照就是行驶证。这样也好解释为什么不完整呼号不具有呼号的属性了。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;试想一下，你的车牌号是“津A·12345”，现在有人问你：“你车牌号多少？”&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;但是你就说了个“12345”。这时候就没人知道你的车牌究竟是“津A”还是其他的比如“京N”、“冀B”或者其他开头的。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;带入呼号的话，上面的“津A·12345”就是“BH3FZZ”、“津”就是“BH”（前缀）、“A”就是“3”（分区），而“12345”就是“FZZ”（后缀）。只说“FZZ”的话，就没人知道你的呼号前缀和分区是什么。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;（上述呼号及车牌号皆属虚构。如有雷同，纯属巧合）&amp;lt;/p&amp;gt;
+&amp;lt;h3 id=&amp;#34;题库&amp;#34;&amp;gt;题库&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;考试之前，一定要&amp;lt;strong&amp;gt;充分的&amp;lt;/strong&amp;gt;学习并理解题库中的内容。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;要记住，通过考试并设台之后，你就成为了一名&amp;lt;strong&amp;gt;正式的&amp;lt;/strong&amp;gt;业余无线电爱好者，也就是我们常说的 &amp;lt;strong&amp;gt;“HAM”&amp;lt;/strong&amp;gt;。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;题库中的内容不仅仅是拿来让你考取操作证的，也是每一位爱好者应当注意的&amp;lt;strong&amp;gt;规范&amp;lt;/strong&amp;gt;。规范的通联可以保证空中的秩序。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;强烈建议除了学习题库内容以外，也要学习一些相关的知识。&amp;lt;/p&amp;gt;
+&amp;lt;h4 id=&amp;#34;相关知识&amp;#34;&amp;gt;相关知识&amp;lt;/h4&amp;gt;
+&amp;lt;p&amp;gt;这里推荐一本书：《业余无线电通信（第五版）》（ISBN：978-7-115-55628-8）。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;本书由 &amp;lt;strong&amp;gt;童效勇（BA1AA）&amp;lt;/strong&amp;gt; 及 &amp;lt;strong&amp;gt;陈方（BA4RC）&amp;lt;/strong&amp;gt; 两位老师共同编著。内容基本涵盖了各类业余无线电的知识，非常实用。上一版更是被爱好者们奉为“绿宝书”。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;我国有关的法律法规也要了解一下：&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;https://www.miit.gov.cn/jgsj/zfs/bmgz/art/2020/art_147b69815b3641caad9047735f94c860.html&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;业余无线电台管理办法&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;https://www.miit.gov.cn/zwgk/zcwj/wjfb/qt/art/2020/art_a80cf0c6f68a40889021345a36289c14.html&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;中华人民共和国无线电频率划分规定&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;https://www.miit.gov.cn/zwgk/zcwj/flfg/art/2020/art_9d66759198324b83a9dfbb44eb292b79.html&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;中华人民共和国无线电管理条例&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;h4 id=&amp;#34;学习方式&amp;#34;&amp;gt;学习方式&amp;lt;/h4&amp;gt;
+&amp;lt;p&amp;gt;学习题库的方式有很多种，本人在此推荐其中三种：&amp;lt;/p&amp;gt;
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;手机端（APP）：
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;智谱APP
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;官方出品，没话可说。题库更新非常迅速，并且准确。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;有三种练习模式，可以根据自己的需要选择一个模式练习：
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;全题库学习（厉兵秣马）&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;随机10题练习（小试牛刀）&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;模拟考试（披挂上阵）&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;随机10题练习和模拟考试有bug，每次抽取的题目相同。必须手动强制停止APP之后再打开才能生成新的随机题目。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;考试100
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;可以查看正确率，方便得知自己的记忆程度。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;有笔记功能，方便学习。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;没有随机练习功能。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;题库中有错误，尤其是B类。因此推荐程度不是很高。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;手机端（小程序）：
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;HAM模拟考试
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;有各位HAM们做的学习笔记（在这个小程序中称作“群众的力量”），方便学习。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;有易错题功能，个人认为相较错题本更好练习错题。因为你能知道在哪一题上更容易出错，加强对这一块的记忆。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;无线电HAM
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;除了练习题库外，还可以练习摩尔斯电码、简语（缩语）、基础知识等。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;工具很多，且很实用。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;题库精简：B类中不含A类有的题目，C类中不含B类有的题目，减少负担。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;就是广告有点多（可以理解），注意别点错了。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;文本版题库（全平台）
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;在CRAC官网即可下载，链接如下：&amp;lt;a href=&amp;#34;http://114.115.246.55:8091/CRAC/userfiles/file/exam/download/2021-02-23/TXT%E9%A2%98%E5%BA%93%E5%8C%85(v20210222).zip&amp;#34;&amp;gt;http://114.115.246.55:8091/CRAC/userfiles/file/exam/download/2021-02-23/TXT%E9%A2%98%E5%BA%93%E5%8C%85(v20210222).zip&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;文字版题库的答案都是A。&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;最淳朴的方式，没有任何附加功能和特点。
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;非要说有的话，就是可以用文本编辑器搜索里面的内容，以及小。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;
+&amp;lt;p&amp;gt;以及官方的模拟考试系统（电脑端），但是我并不推荐。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;为什么呢？因为手机端随时随地都能练习，上班上学的路上就练了，而电脑端不行。&amp;lt;/p&amp;gt;
+&amp;lt;h3 id=&amp;#34;报名&amp;#34;&amp;gt;报名&amp;lt;/h3&amp;gt;
+&amp;lt;!-- raw HTML omitted --&amp;gt;
+&amp;lt;p&amp;gt;CRAC在不久前（1月21日）已经对考试报名和信息查询做了统一处理，现在只需要下载 &amp;lt;strong&amp;gt;智谱APP&amp;lt;/strong&amp;gt; 或者 &amp;lt;strong&amp;gt;&amp;lt;a href=&amp;#34;http://license.crac.org.cn:8091/CRAC/crac/index.html&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;登入网页&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt; 就可以报名。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;因为我是用手机报名的，所以后面的内容全部以智谱APP为准。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;报名要求的材料：本人照片、身份证正反面扫描件/照片，&amp;lt;strong&amp;gt;均为JPG格式&amp;lt;/strong&amp;gt;。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;然后录入你的信息：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/xxlr.png&amp;#34; alt=&amp;#34;信息录入页面&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;一定要注意格式，我第一次上传了PNG格式，被打回来了。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/hz_wtg.png&amp;#34; alt=&amp;#34;审核不通过&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;h4 id=&amp;#34;照片要求&amp;#34;&amp;gt;照片要求&amp;lt;/h4&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;本人照片：&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;6个月内近照；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;正面免冠；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;包含完整头部；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;头部位于照片高度的1/2至4/5范围内；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;宽高比4:3；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;分辨率不低于400×300、不高于4500×3375。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;身份证正反面：&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;彩色；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;无遮挡、扭曲、变形、反光；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;头像清晰可辨；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;分辨率不低于1024×768、不高于3000×2000；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;宽高比最好在16：9，否则有可能会变形。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;顺带一提，本人照片一定要选&amp;lt;strong&amp;gt;比较正式&amp;lt;/strong&amp;gt;的。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;因为这张照片至少要陪伴你六个月（取得A类操作证后六个月可以考取B类操作证），甚至更久！&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;要是你用穿着跨栏背心的生活照的话……&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;画面太美，我不敢想象。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;填好报名信息之后检查一下，确认好之前&amp;lt;strong&amp;gt;不要&amp;lt;/strong&amp;gt;正式上传。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/xxyl.png&amp;#34; alt=&amp;#34;信息预览&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;报名后请&amp;lt;strong&amp;gt;自行&amp;lt;/strong&amp;gt;打印准考证。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;准考证长这样：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/zkz.png&amp;#34; alt=&amp;#34;准考证&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;要是家里没有打印机的话，就去可信赖的文印店吧。因为这上面涉及到你的&amp;lt;strong&amp;gt;个人信息&amp;lt;/strong&amp;gt;，所以一定要去可信赖的、能保证隐私的文印店。&amp;lt;/p&amp;gt;
+&amp;lt;h3 id=&amp;#34;文具&amp;#34;&amp;gt;文具&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;推荐携带：铅笔（涂答题卡，拿中性笔要是填错了，你会后悔死的）、黑色/蓝色中性笔（签名、填信息）、橡皮（擦错题）。&amp;lt;/p&amp;gt;
+&amp;lt;hr&amp;gt;
+&amp;lt;h2 id=&amp;#34;考试&amp;#34;&amp;gt;考试&amp;lt;/h2&amp;gt;
+&amp;lt;!-- raw HTML omitted --&amp;gt;
+&amp;lt;h3 id=&amp;#34;考场&amp;#34;&amp;gt;考场&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;附上考场图片一张（天津美豪酒店，三楼会议厅）：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/kc.png&amp;#34; alt=&amp;#34;考场&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;h3 id=&amp;#34;方式&amp;#34;&amp;gt;方式&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;天津目前是&amp;lt;strong&amp;gt;笔试&amp;lt;/strong&amp;gt;，把答案填涂在&amp;lt;strong&amp;gt;答题卡&amp;lt;/strong&amp;gt;上（PS：答题卡四个小圆圈从左到右分别对应A-D，天津的试卷&amp;lt;strong&amp;gt;没标出来&amp;lt;/strong&amp;gt;）。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;答题卡大概长这样（根据记忆还原）：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/dtk.png&amp;#34; alt=&amp;#34;凭记忆还原的答题卡&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;h3 id=&amp;#34;流程&amp;#34;&amp;gt;流程&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;进入考场前需要出示健康码、测量体温及签到（用中性笔在信息表上签字），然后按照监考老师的要求落座。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;落座后，请将你的准考证、身份证放在桌面的&amp;lt;strong&amp;gt;左上角&amp;lt;/strong&amp;gt;。如果你带了其他东西，一开始可以放在桌面的&amp;lt;strong&amp;gt;右上角&amp;lt;/strong&amp;gt;。文具没有要求，我放在了&amp;lt;strong&amp;gt;中间靠前&amp;lt;/strong&amp;gt;的位置。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;这次考试的时间是下午2点45分，考前讲了一些相关法律法规。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;接下来，请耐心等待监考老师分发试卷和答题卡（拿一份再&amp;lt;strong&amp;gt;传下去&amp;lt;/strong&amp;gt;，就像上学时那样）。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;试卷和答题卡到手后一定要&amp;lt;strong&amp;gt;检查&amp;lt;/strong&amp;gt;一下，有问题请举手报告监考老师。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;监考老师宣布开始答题后，请将你的所有资料及手机、背包等物品放到&amp;lt;strong&amp;gt;桌子下面或指定位置&amp;lt;/strong&amp;gt;。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;开考后15分钟就能交卷了。要是你速度比较快的话可以提前交卷。&amp;lt;/p&amp;gt;
+&amp;lt;h3 id=&amp;#34;题目&amp;#34;&amp;gt;题目&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;考试从370道题目里&amp;lt;strong&amp;gt;随机&amp;lt;/strong&amp;gt;抽取30题，对25题算过。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;（每个人的试卷都&amp;lt;strong&amp;gt;不一样&amp;lt;/strong&amp;gt;，别想着投机取巧！）&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;个人觉得还算简单（相较于正在背的B类），背了一个月基本上正确率在97%，背了三个月正确率有99%。&amp;lt;/p&amp;gt;
+&amp;lt;hr&amp;gt;
+&amp;lt;h2 id=&amp;#34;通过&amp;#34;&amp;gt;通过&amp;lt;/h2&amp;gt;
+&amp;lt;h3 id=&amp;#34;得到结果&amp;#34;&amp;gt;得到结果&amp;lt;/h3&amp;gt;
+&amp;lt;!-- raw HTML omitted --&amp;gt;
+&amp;lt;p&amp;gt;经过一周的等待，我在智谱APP上查询到了我的结果：考试通过。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/kstg.png&amp;#34; alt=&amp;#34;过了！&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;但是这还没完。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;结果还要送CRAC审核确认，随后才能拿到我的操作证。就像成绩查询页面上所述：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/cjcx.png&amp;#34; alt=&amp;#34;成绩查询页面&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;到时候我会更新，请耐心等待。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;再会。&amp;lt;/p&amp;gt;
+&amp;lt;h3 id=&amp;#34;出证书号&amp;#34;&amp;gt;出证书号&amp;lt;/h3&amp;gt;
+&amp;lt;!-- raw HTML omitted --&amp;gt;
+&amp;lt;p&amp;gt;我的结果已经得到了CRAC的审核确认，证书也已经获得了CRAC的核准。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;现在的状态已变为“已有证书号”。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/yyzsh.png&amp;#34; alt=&amp;#34;已有证书号&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;证书查询页面中也能查到我的证书了：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/zscx_zsh.png&amp;#34; alt=&amp;#34;证书查询页面&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;之前未审核确认时是这样的：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/zscx.png&amp;#34; alt=&amp;#34;未被CRAC审核确认时的证书查询页面&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;TJARA尚未公布考试通过名单，预计领取操作证还要等3-7天。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;拿到操作证后我会更新并贴出图片。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;再会。&amp;lt;/p&amp;gt;
+&amp;lt;hr&amp;gt;
+&amp;lt;h2 id=&amp;#34;领证&amp;#34;&amp;gt;领证&amp;lt;/h2&amp;gt;
+&amp;lt;!-- raw HTML omitted --&amp;gt;
+&amp;lt;h3 id=&amp;#34;相关资料&amp;#34;&amp;gt;相关资料&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;设台相关
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;https://www.miit.gov.cn/n1146295/n1652858/n1652930/n3757020/c3764528/part/3764529.doc&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;设台用的两张表格&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;http://www.tjara.org/index.php?m=cms&amp;amp;amp;q=view&amp;amp;amp;id=123&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;考试和设台相关表格及填写规范&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;http://www.srrc.org.cn/WP_Search_Old.aspx&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;核准代码查询&amp;lt;/a&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;智谱APP也可查询核准代码。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;操作证相关
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&amp;#34;http://www.tjara.org/index.php?m=cms&amp;amp;amp;q=view&amp;amp;amp;id=118&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;领取业余电台操作证书委托书&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;h3 id=&amp;#34;概要&amp;#34;&amp;gt;概要&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;TJARA在4月8日时发布了领取操作证书的通知，并说明了时间和地点：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;时间：周一、周三，9:00-11:30；13:30-16:30。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;地址：水上北道26号403室。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;可惜8号是个周四，不过今天一大早我就去协会领证了。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/tjara_office.png&amp;#34; alt=&amp;#34;协会的照片&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;（协会外面的照片，进办公室以后就不让拍照了）&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;中途因为一些事情耽误了时间，最后在11点整才到的协会，差一点就没赶上。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;领取时别忘了带上身份证&amp;lt;strong&amp;gt;原件&amp;lt;/strong&amp;gt;。&amp;lt;/p&amp;gt;
+&amp;lt;h3 id=&amp;#34;设台&amp;#34;&amp;gt;设台&amp;lt;/h3&amp;gt;
+&amp;lt;p&amp;gt;要设台的话，记得准备好这些东西：&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;两表两证：
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;填写好的《业余无线电台设置（变更）申请表》（国无管表 17）；
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;天津还需&amp;lt;strong&amp;gt;电子版&amp;lt;/strong&amp;gt;一份（上方可下载），放在U盘里。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;填写好的《业余无线电台技术资料申报表》（国无管表 19）；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;身份证&amp;lt;strong&amp;gt;原件&amp;lt;/strong&amp;gt;；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;操作证书&amp;lt;strong&amp;gt;原件&amp;lt;/strong&amp;gt;。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;电台设备；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;机动车行驶证（如果有车载电台）；&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;天馈电点海拔高度和地理坐标信息（如果有基地台）。&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;hr&amp;gt;
+&amp;lt;h2 id=&amp;#34;结语&amp;#34;&amp;gt;结语&amp;lt;/h2&amp;gt;
+&amp;lt;p&amp;gt;最后，这是我的操作证：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/crac_a_lic.png&amp;#34; alt=&amp;#34;A类业余电台操作证书（正面）&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/crac_a_lic_back.png&amp;#34; alt=&amp;#34;A类业余电台操作证书（背面）&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;del&amp;gt;（照片和表格都印歪了是怎么回事啊喂！？）&amp;lt;/del&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;还有全新推出的电子版：&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img loading=&amp;#34;lazy&amp;#34; src=&amp;#34;/media/shared/img/got-my-crac-license/crac_a_lic_elicense.png&amp;#34; alt=&amp;#34;A类业余电台操作证书（电子版）&amp;#34;  /&amp;gt;
+&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;祝各位早日取得自己的操作证！&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;VY 73!&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;再会。&amp;lt;/p&amp;gt;
+</description>
       <pubDate>Fri, 02 Apr 2021 13:35:00 +0800</pubDate>
-      
-      <guid>https://kage-shadows.github.io/zh/post/got-my-crac-license/</guid>
-      <description>就在4月2日，我通过了天津3月27日组织的考试。</description>
+      <author>kage.public@outlook.com (Kage)</author>
+      <guid>https://kage-shadows.github.io/zh/post/got-my-crac-a-license/</guid>
     </item>
     
     <item>
       <title>你好，世界！</title>
       <link>https://kage-shadows.github.io/zh/post/hello-world/</link>
+      <description>&amp;lt;p&amp;gt;欢迎来到我的博客！&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;这个博客采用了 Hugo 搭建。&amp;lt;/p&amp;gt;
+&amp;lt;div class=&amp;#34;highlight&amp;#34;&amp;gt;&amp;lt;div style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;
+&amp;lt;table style=&amp;#34;border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;&amp;#34;&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style=&amp;#34;vertical-align:top;padding:0;margin:0;border:0;&amp;#34;&amp;gt;
+&amp;lt;pre style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;&amp;lt;code&amp;gt;&amp;lt;span style=&amp;#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&amp;#34;&amp;gt;1
+&amp;lt;/span&amp;gt;&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;td style=&amp;#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&amp;#34;&amp;gt;
+&amp;lt;pre style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;&amp;lt;code class=&amp;#34;language-python&amp;#34; data-lang=&amp;#34;python&amp;#34;&amp;gt;&amp;lt;span style=&amp;#34;color:#fb660a;font-weight:bold&amp;#34;&amp;gt;print&amp;lt;/span&amp;gt;(&amp;lt;span style=&amp;#34;color:#0086d2&amp;#34;&amp;gt;&amp;amp;#34;Hello, World!&amp;amp;#34;&amp;lt;/span&amp;gt;)
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;#34;highlight&amp;#34;&amp;gt;&amp;lt;div style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;
+&amp;lt;table style=&amp;#34;border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;&amp;#34;&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style=&amp;#34;vertical-align:top;padding:0;margin:0;border:0;&amp;#34;&amp;gt;
+&amp;lt;pre style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;&amp;lt;code&amp;gt;&amp;lt;span style=&amp;#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&amp;#34;&amp;gt;2
+&amp;lt;/span&amp;gt;&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;td style=&amp;#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&amp;#34;&amp;gt;
+&amp;lt;pre style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;&amp;lt;code class=&amp;#34;language-csharp&amp;#34; data-lang=&amp;#34;csharp&amp;#34;&amp;gt;Console.WriteLine(&amp;lt;span style=&amp;#34;color:#0086d2&amp;#34;&amp;gt;&amp;amp;#34;Hello, World!&amp;amp;#34;&amp;lt;/span&amp;gt;);
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;&amp;lt;div class=&amp;#34;highlight&amp;#34;&amp;gt;&amp;lt;div style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;
+&amp;lt;table style=&amp;#34;border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;&amp;#34;&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style=&amp;#34;vertical-align:top;padding:0;margin:0;border:0;&amp;#34;&amp;gt;
+&amp;lt;pre style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;&amp;lt;code&amp;gt;&amp;lt;span style=&amp;#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&amp;#34;&amp;gt;3
+&amp;lt;/span&amp;gt;&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&amp;lt;/td&amp;gt;
+&amp;lt;td style=&amp;#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&amp;#34;&amp;gt;
+&amp;lt;pre style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;&amp;lt;code class=&amp;#34;language-fallback&amp;#34; data-lang=&amp;#34;fallback&amp;#34;&amp;gt;标准输出(, “你好，世界！”)
+&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;</description>
       <pubDate>Sun, 10 Jan 2021 02:38:06 +0800</pubDate>
-      
+      <author>kage.public@outlook.com (Kage)</author>
       <guid>https://kage-shadows.github.io/zh/post/hello-world/</guid>
-      <description>你好，这个世界。</description>
     </item>
     
   </channel>
