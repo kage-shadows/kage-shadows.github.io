@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>影子小站</title>
-    <link>https://kage-shadows.github.io/zh/</link>
+    <link>https://kage-shadows.github.io/blog/zh/</link>
     <description>Recent content on 影子小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>kage.public@outlook.com (Kage)</managingEditor>
     <webMaster>kage.public@outlook.com (Kage)</webMaster>
     <copyright>Copyright © 2021 Kage.</copyright>
-    <lastBuildDate>Fri, 02 Apr 2021 13:35:00 +0800</lastBuildDate><atom:link href="https://kage-shadows.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Apr 2021 13:35:00 +0800</lastBuildDate><atom:link href="https://kage-shadows.github.io/blog/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【多图预警】我取得了CRAC的A类《业余电台操作证书》</title>
-      <link>https://kage-shadows.github.io/zh/post/got-my-crac-a-license/</link>
+      <link>https://kage-shadows.github.io/blog/zh/post/got-my-crac-a-license/</link>
       <description>&amp;lt;blockquote&amp;gt;
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;“&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;业余无线电爱好者守则&amp;lt;/p&amp;gt;
@@ -155,7 +155,7 @@
 &amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;文本版题库（全平台）
 &amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;在CRAC官网即可下载，链接如下：&amp;lt;a href=&amp;#34;http://114.115.246.55:8091/CRAC/userfiles/file/exam/download/2021-02-23/TXT%E9%A2%98%E5%BA%93%E5%8C%85(v20210222).zip&amp;#34;&amp;gt;http://114.115.246.55:8091/CRAC/userfiles/file/exam/download/2021-02-23/TXT%E9%A2%98%E5%BA%93%E5%8C%85(v20210222).zip&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;在CRAC官网即可下载，链接如下：&amp;lt;a href=&amp;#34;http://119.3.207.101:10101/CRAC/userfiles/file/exam/download/2021-02-23/TXT%E9%A2%98%E5%BA%93%E5%8C%85(v20210222).zip&amp;#34;&amp;gt;http://119.3.207.101:10101/CRAC/userfiles/file/exam/download/2021-02-23/TXT%E9%A2%98%E5%BA%93%E5%8C%85(v20210222).zip&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;文字版题库的答案都是A。&amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;最淳朴的方式，没有任何附加功能和特点。
 &amp;lt;ul&amp;gt;
@@ -169,7 +169,7 @@
 &amp;lt;p&amp;gt;为什么呢？因为手机端随时随地都能练习，上班上学的路上就练了，而电脑端不行。&amp;lt;/p&amp;gt;
 &amp;lt;h3 id=&amp;#34;报名&amp;#34;&amp;gt;报名&amp;lt;/h3&amp;gt;
 &amp;lt;!-- raw HTML omitted --&amp;gt;
-&amp;lt;p&amp;gt;CRAC在不久前（1月21日）已经对考试报名和信息查询做了统一处理，现在只需要下载 &amp;lt;strong&amp;gt;智谱APP&amp;lt;/strong&amp;gt; 或者 &amp;lt;strong&amp;gt;&amp;lt;a href=&amp;#34;http://license.crac.org.cn:8091/CRAC/crac/index.html&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;登入网页&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt; 就可以报名。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;CRAC在不久前（1月21日）已经对考试报名和信息查询做了统一处理，现在只需要下载 &amp;lt;strong&amp;gt;智谱APP&amp;lt;/strong&amp;gt; 或者 &amp;lt;strong&amp;gt;&amp;lt;a href=&amp;#34;http://119.3.207.101:10101/CRAC/crac/login_student.html&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;登入网页&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt; 就可以报名。&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;因为我是用手机报名的，所以后面的内容全部以智谱APP为准。&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;报名要求的材料：本人照片、身份证正反面扫描件/照片，&amp;lt;strong&amp;gt;均为JPG格式&amp;lt;/strong&amp;gt;。&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;然后录入你的信息：&amp;lt;/p&amp;gt;
@@ -336,12 +336,12 @@
 </description>
       <pubDate>Fri, 02 Apr 2021 13:35:00 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/zh/post/got-my-crac-a-license/</guid>
+      <guid>https://kage-shadows.github.io/blog/zh/post/got-my-crac-a-license/</guid>
     </item>
     
     <item>
       <title>版权声明</title>
-      <link>https://kage-shadows.github.io/zh/copyright/</link>
+      <link>https://kage-shadows.github.io/blog/zh/copyright/</link>
       <description>&amp;lt;p&amp;gt;本站所有的 &amp;lt;strong&amp;gt;原创&amp;lt;/strong&amp;gt; 作品如&amp;lt;strong&amp;gt;无特殊声明&amp;lt;/strong&amp;gt;，版权及其相关权利均属创作此作品的创作者所有。&amp;lt;strong&amp;gt;未经许可，您不得转载这些内容&amp;lt;/strong&amp;gt;。也包括本声明。&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;对于使用 &amp;lt;strong&amp;gt;CC 许可协议&amp;lt;/strong&amp;gt; 的作品，您需要遵守相对应协议中的&amp;lt;strong&amp;gt;限制&amp;lt;/strong&amp;gt;，方可使用它们。&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;例如，&amp;lt;a href=&amp;#34;https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;CC-BY-SA 4.0 国际许可协议&amp;lt;/a&amp;gt; 中提供的摘要信息如下：&amp;lt;/p&amp;gt;
@@ -365,21 +365,21 @@
 </description>
       <pubDate>Thu, 01 Apr 2021 19:50:38 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/zh/copyright/</guid>
+      <guid>https://kage-shadows.github.io/blog/zh/copyright/</guid>
     </item>
     
     <item>
       <title>友情链接</title>
-      <link>https://kage-shadows.github.io/zh/links/</link>
+      <link>https://kage-shadows.github.io/blog/zh/links/</link>
       <description></description>
       <pubDate>Mon, 01 Feb 2021 15:11:13 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/zh/links/</guid>
+      <guid>https://kage-shadows.github.io/blog/zh/links/</guid>
     </item>
     
     <item>
       <title>特别感谢</title>
-      <link>https://kage-shadows.github.io/zh/special-thanks/</link>
+      <link>https://kage-shadows.github.io/blog/zh/special-thanks/</link>
       <description>&amp;lt;h2 id=&amp;#34;内容使用&amp;#34;&amp;gt;内容使用&amp;lt;/h2&amp;gt;
 &amp;lt;h3 id=&amp;#34;博客框架&amp;#34;&amp;gt;博客框架&amp;lt;/h3&amp;gt;
 &amp;lt;ul&amp;gt;
@@ -421,12 +421,12 @@
 </description>
       <pubDate>Mon, 01 Feb 2021 15:11:04 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/zh/special-thanks/</guid>
+      <guid>https://kage-shadows.github.io/blog/zh/special-thanks/</guid>
     </item>
     
     <item>
       <title>联系我们</title>
-      <link>https://kage-shadows.github.io/zh/contact-us/</link>
+      <link>https://kage-shadows.github.io/blog/zh/contact-us/</link>
       <description>&amp;lt;p&amp;gt;站长信箱：&amp;lt;a href=&amp;#34;mailto:kage.public@outlook.com&amp;#34;&amp;gt;kage.public@outlook.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;业余无线电及HAM专区信箱：&amp;lt;a href=&amp;#34;mailto:kage.radio@outlook.com&amp;#34;&amp;gt;kage.radio@outlook.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;站长呼号：（暂无）&amp;lt;/p&amp;gt;
@@ -439,12 +439,12 @@
 </description>
       <pubDate>Thu, 28 Jan 2021 02:15:13 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/zh/contact-us/</guid>
+      <guid>https://kage-shadows.github.io/blog/zh/contact-us/</guid>
     </item>
     
     <item>
       <title>你好，世界！</title>
-      <link>https://kage-shadows.github.io/zh/post/hello-world/</link>
+      <link>https://kage-shadows.github.io/blog/zh/post/hello-world/</link>
       <description>&amp;lt;p&amp;gt;欢迎来到我的博客！&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;这个博客采用了 Hugo 搭建。&amp;lt;/p&amp;gt;
 &amp;lt;div class=&amp;#34;highlight&amp;#34;&amp;gt;&amp;lt;div style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;
@@ -474,7 +474,7 @@
 &amp;lt;/div&amp;gt;</description>
       <pubDate>Sun, 10 Jan 2021 02:38:06 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/zh/post/hello-world/</guid>
+      <guid>https://kage-shadows.github.io/blog/zh/post/hello-world/</guid>
     </item>
     
     

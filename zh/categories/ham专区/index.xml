@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HAM专区 on 影子小站</title>
-    <link>https://kage-shadows.github.io/zh/categories/ham%E4%B8%93%E5%8C%BA/</link>
+    <link>https://kage-shadows.github.io/blog/zh/categories/ham%E4%B8%93%E5%8C%BA/</link>
     <description>Recent content in HAM专区 on 影子小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>kage.public@outlook.com (Kage)</managingEditor>
     <webMaster>kage.public@outlook.com (Kage)</webMaster>
     <copyright>Copyright © 2021 Kage.</copyright>
-    <lastBuildDate>Fri, 02 Apr 2021 13:35:00 +0800</lastBuildDate><atom:link href="https://kage-shadows.github.io/zh/categories/ham%E4%B8%93%E5%8C%BA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Apr 2021 13:35:00 +0800</lastBuildDate><atom:link href="https://kage-shadows.github.io/blog/zh/categories/ham%E4%B8%93%E5%8C%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【多图预警】我取得了CRAC的A类《业余电台操作证书》</title>
-      <link>https://kage-shadows.github.io/zh/post/got-my-crac-a-license/</link>
+      <link>https://kage-shadows.github.io/blog/zh/post/got-my-crac-a-license/</link>
       <description>&amp;lt;blockquote&amp;gt;
 &amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;“&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;业余无线电爱好者守则&amp;lt;/p&amp;gt;
@@ -155,7 +155,7 @@
 &amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;文本版题库（全平台）
 &amp;lt;ul&amp;gt;
-&amp;lt;li&amp;gt;在CRAC官网即可下载，链接如下：&amp;lt;a href=&amp;#34;http://114.115.246.55:8091/CRAC/userfiles/file/exam/download/2021-02-23/TXT%E9%A2%98%E5%BA%93%E5%8C%85(v20210222).zip&amp;#34;&amp;gt;http://114.115.246.55:8091/CRAC/userfiles/file/exam/download/2021-02-23/TXT%E9%A2%98%E5%BA%93%E5%8C%85(v20210222).zip&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;在CRAC官网即可下载，链接如下：&amp;lt;a href=&amp;#34;http://119.3.207.101:10101/CRAC/userfiles/file/exam/download/2021-02-23/TXT%E9%A2%98%E5%BA%93%E5%8C%85(v20210222).zip&amp;#34;&amp;gt;http://119.3.207.101:10101/CRAC/userfiles/file/exam/download/2021-02-23/TXT%E9%A2%98%E5%BA%93%E5%8C%85(v20210222).zip&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;文字版题库的答案都是A。&amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;最淳朴的方式，没有任何附加功能和特点。
 &amp;lt;ul&amp;gt;
@@ -169,7 +169,7 @@
 &amp;lt;p&amp;gt;为什么呢？因为手机端随时随地都能练习，上班上学的路上就练了，而电脑端不行。&amp;lt;/p&amp;gt;
 &amp;lt;h3 id=&amp;#34;报名&amp;#34;&amp;gt;报名&amp;lt;/h3&amp;gt;
 &amp;lt;!-- raw HTML omitted --&amp;gt;
-&amp;lt;p&amp;gt;CRAC在不久前（1月21日）已经对考试报名和信息查询做了统一处理，现在只需要下载 &amp;lt;strong&amp;gt;智谱APP&amp;lt;/strong&amp;gt; 或者 &amp;lt;strong&amp;gt;&amp;lt;a href=&amp;#34;http://license.crac.org.cn:8091/CRAC/crac/index.html&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;登入网页&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt; 就可以报名。&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;CRAC在不久前（1月21日）已经对考试报名和信息查询做了统一处理，现在只需要下载 &amp;lt;strong&amp;gt;智谱APP&amp;lt;/strong&amp;gt; 或者 &amp;lt;strong&amp;gt;&amp;lt;a href=&amp;#34;http://119.3.207.101:10101/CRAC/crac/login_student.html&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;登入网页&amp;lt;/a&amp;gt;&amp;lt;/strong&amp;gt; 就可以报名。&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;因为我是用手机报名的，所以后面的内容全部以智谱APP为准。&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;报名要求的材料：本人照片、身份证正反面扫描件/照片，&amp;lt;strong&amp;gt;均为JPG格式&amp;lt;/strong&amp;gt;。&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;然后录入你的信息：&amp;lt;/p&amp;gt;
@@ -336,7 +336,7 @@
 </description>
       <pubDate>Fri, 02 Apr 2021 13:35:00 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/zh/post/got-my-crac-a-license/</guid>
+      <guid>https://kage-shadows.github.io/blog/zh/post/got-my-crac-a-license/</guid>
     </item>
     
   </channel>
