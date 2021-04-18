@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kage&#39;s Blog</title>
-    <link>https://kage-shadows.github.io/en/</link>
+    <link>https://kage-shadows.com/en/</link>
     <description>Recent content on Kage&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>kage.public@outlook.com (Kage)</managingEditor>
     <webMaster>kage.public@outlook.com (Kage)</webMaster>
     <copyright>Copyright © 2021 Kage.</copyright>
-    <lastBuildDate>Sun, 10 Jan 2021 02:39:27 +0800</lastBuildDate><atom:link href="https://kage-shadows.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 02:39:27 +0800</lastBuildDate><atom:link href="https://kage-shadows.com/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Copyright Notice</title>
-      <link>https://kage-shadows.github.io/en/copyright/</link>
+      <link>https://kage-shadows.com/en/copyright/</link>
       <description>&amp;lt;p&amp;gt;If there&amp;amp;rsquo;s &amp;lt;strong&amp;gt;NOT a special notice&amp;lt;/strong&amp;gt; in the description, all the &amp;lt;strong&amp;gt;ORIGINAL&amp;lt;/strong&amp;gt; works are all rights reserved. The copyright and its related rights belong to their creators. &amp;lt;strong&amp;gt;You may not re-post these works without a permission&amp;lt;/strong&amp;gt;. This restriction also applies to this Notice.&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;For works that &amp;lt;strong&amp;gt;used CC License&amp;lt;/strong&amp;gt;, you must &amp;lt;strong&amp;gt;follow&amp;lt;/strong&amp;gt; the license terms.&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;For example, here&amp;amp;rsquo;s the summary of &amp;lt;a href=&amp;#34;https://creativecommons.org/licenses/by-sa/4.0/&amp;#34; target=&amp;#34;_blank&amp;#34;&amp;gt;CC-BY-SA 4.0 International License&amp;lt;/a&amp;gt;:&amp;lt;/p&amp;gt;
@@ -35,21 +35,21 @@
 </description>
       <pubDate>Thu, 01 Apr 2021 19:50:38 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/en/copyright/</guid>
+      <guid>https://kage-shadows.com/en/copyright/</guid>
     </item>
     
     <item>
       <title>Links</title>
-      <link>https://kage-shadows.github.io/en/links/</link>
+      <link>https://kage-shadows.com/en/links/</link>
       <description></description>
       <pubDate>Mon, 01 Feb 2021 15:11:13 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/en/links/</guid>
+      <guid>https://kage-shadows.com/en/links/</guid>
     </item>
     
     <item>
       <title>Special Thanks</title>
-      <link>https://kage-shadows.github.io/en/special-thanks/</link>
+      <link>https://kage-shadows.com/en/special-thanks/</link>
       <description>&amp;lt;h2 id=&amp;#34;contents-usage&amp;#34;&amp;gt;Contents Usage&amp;lt;/h2&amp;gt;
 &amp;lt;h3 id=&amp;#34;blog-framework&amp;#34;&amp;gt;Blog Framework&amp;lt;/h3&amp;gt;
 &amp;lt;ul&amp;gt;
@@ -91,12 +91,12 @@
 </description>
       <pubDate>Mon, 01 Feb 2021 15:11:04 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/en/special-thanks/</guid>
+      <guid>https://kage-shadows.com/en/special-thanks/</guid>
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>https://kage-shadows.github.io/en/contact-us/</link>
+      <link>https://kage-shadows.com/en/contact-us/</link>
       <description>&amp;lt;p&amp;gt;My Email: &amp;lt;a href=&amp;#34;mailto:kage.public@outlook.com&amp;#34;&amp;gt;kage.public@outlook.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;Email of HAM Radio (Amateur Radio) and HAM&amp;amp;rsquo;s paradise: &amp;lt;a href=&amp;#34;mailto:kage.radio@outlook.com&amp;#34;&amp;gt;kage.radio@outlook.com&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;My callsign: Nothing now.&amp;lt;/p&amp;gt;
@@ -108,12 +108,12 @@
 </description>
       <pubDate>Thu, 28 Jan 2021 02:15:13 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/en/contact-us/</guid>
+      <guid>https://kage-shadows.com/en/contact-us/</guid>
     </item>
     
     <item>
       <title>Hello World!</title>
-      <link>https://kage-shadows.github.io/en/post/hello-world/</link>
+      <link>https://kage-shadows.com/en/post/hello-world/</link>
       <description>&amp;lt;p&amp;gt;Welcome to my blog!&amp;lt;/p&amp;gt;
 &amp;lt;p&amp;gt;This blog is powered by Hugo.&amp;lt;/p&amp;gt;
 &amp;lt;div class=&amp;#34;highlight&amp;#34;&amp;gt;&amp;lt;div style=&amp;#34;color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4&amp;#34;&amp;gt;
@@ -143,7 +143,7 @@
 &amp;lt;/div&amp;gt;</description>
       <pubDate>Sun, 10 Jan 2021 02:39:27 +0800</pubDate>
       <author>kage.public@outlook.com (Kage)</author>
-      <guid>https://kage-shadows.github.io/en/post/hello-world/</guid>
+      <guid>https://kage-shadows.com/en/post/hello-world/</guid>
     </item>
     
     
