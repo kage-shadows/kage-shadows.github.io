@@ -10,9 +10,9 @@
 <title>【多图预警】我取得了CRAC的A类《业余电台操作证书》 | 影子小站</title>
 <meta name="keywords" content="业余无线电, 无线电, KAGE.RADIO, HAM, HAM专区" />
 <meta name="description" content="我在3月27日时参加了天津市无线电协会组织的“2021年第一次A类业余无线电台操作能力验证考试”，并在4月2日时得到了考试通过的消息。4月12日时，我拿到了我的操作证。">
-<meta name="author" content="">
+<meta name="author" content="Kage">
 <link rel="canonical" href="https://kage-shadows.com/zh/post/got-my-crac-a-license/" />
-<link crossorigin="anonymous" href="/assets/css/stylesheet.min.84cc6e7cd97516a4d4e877c6bebe5a4529afdf61f4d009e2c8bbec3a876fff4e.css" integrity="sha256-hMxufNl1FqTU6HfGvr5aRSmv32H00AniyLvsOodv/04=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.bc435bed1061be2618667408894ae8a5d27c970831ce57f287e42f911918fcbc.css" integrity="sha256-vENb7RBhviYYZnQIiUropdJ8lwgxzlfyh&#43;QvkRkY/Lw=" rel="preload stylesheet" as="style">
 <script defer crossorigin="anonymous" src="/assets/js/highlight.min.7680afc38aa6b15ddf158a4f3780b7b1f7dde7e91d26f073e6229bb7a0793c92.js" integrity="sha256-doCvw4qmsV3fFYpPN4C3sffd5&#43;kdJvBz5iKbt6B5PJI="
     onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://kage-shadows.com/favicon.png">
@@ -71,6 +71,10 @@
   "inLanguage": "zh",
   "datePublished": "2021-04-02T13:35:00+08:00",
   "dateModified": "2021-04-12T14:30:00+08:00",
+  "author":{
+    "@type": "Person",
+    "name": "Kage"
+  },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://kage-shadows.com/zh/post/got-my-crac-a-license/"
@@ -204,7 +208,7 @@
     <div class="post-description">
       我在3月27日时参加了天津市无线电协会组织的“2021年第一次A类业余无线电台操作能力验证考试”，并在4月2日时得到了考试通过的消息。4月12日时，我拿到了我的操作证。
     </div>
-    <div class="post-meta">2021年04月02日 13:35:00&nbsp;·&nbsp;5500 字&nbsp;·&nbsp;阅读约 11 分钟
+    <div class="post-meta">2021年04月02日 13:35:00&nbsp;·&nbsp;5500 字&nbsp;·&nbsp;阅读约 11 分钟&nbsp;·&nbsp;Kage
 </div>
   </header> <div class="toc">
     <details >
@@ -768,7 +772,17 @@
             selection.removeRange(range);
         });
 
-        container.appendChild(copybutton);
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
     });
 </script>
 </body>
